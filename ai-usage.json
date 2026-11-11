@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T08:52:00+09:00",
+  "updated_at": "2026-11-11T08:57:00+09:00",
   "services": [
     {
       "id": "muse",
       "name": "Muse",
-      "plan": "Free（無料）",
-      "usedPercent": 90,
-      "resetLabel": "11/15(日) 21:06 リセット",
-      "resetAt": "2026-11-15T21:06:00+09:00",
-      "note": "無料の週間上限",
+      "plan": "Power",
+      "usedPercent": 0,
+      "resetLabel": "11/18(水) 8:53 リセット",
+      "resetAt": "2026-11-18T08:53:00+09:00",
+      "note": "サブスク利用中（解約済み・12/11まで）",
       "source": "auto"
     },
     {
